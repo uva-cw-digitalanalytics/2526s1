@@ -1,0 +1,21 @@
+# jupyter notebook
+.ipynb_checkpoints/
+
+# OS generated files #
+######################
+*.DS_Store
+*.DS_Store?
+
+# Weekly folders
+2_DA2/
+3_DA3/
+4_DA4/
+5_DA5/
+6_DA6/
+
+Catch-up/
+GradedChallenges/
+GradedChallengesResit/
+AB_testReport/
+Solutions/
+UsefulScripts/
