@@ -7,7 +7,6 @@
 *.DS_Store?
 
 # Weekly folders
-2_DA2/
 3_DA3/
 4_DA4/
 5_DA5/
@@ -19,5 +18,3 @@ GradedChallengesResit/
 AB_testReport/
 Solutions/
 UsefulScripts/
-
-*_Solved.ipynb
